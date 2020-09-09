@@ -3,7 +3,7 @@ GEM
   specs:
     importRuby (1.0.0)
     mustermann (1.0.3)
-    rack (2.0.6)
+    rack (2.2.3)
     rack-protection (2.0.5)
       rack
     sinatra (2.0.5)
@@ -14,6 +14,7 @@ GEM
     tilt (2.0.9)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
